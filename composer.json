@@ -1,0 +1,15 @@
+{
+    "name": "yuyii/test1",
+    "authors": [
+        {
+            "name": "yuyii",
+            "email": "yuyii.x@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "yuyii\\Test1\\": "src"
+        }
+    }
+}
