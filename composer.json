@@ -1,5 +1,5 @@
 {
-    "name": "yuyii/test1",
+    "name": "yuyii/test2",
     "authors": [
         {
             "name": "yuyii",
@@ -9,7 +9,7 @@
     "require": {},
     "autoload": {
         "psr-0": {
-            "yuyii\\Test1\\": "src"
+            "yuyii\\Test2\\": "src"
         }
     }
 }
